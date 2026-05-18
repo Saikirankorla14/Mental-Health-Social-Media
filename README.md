@@ -12,7 +12,7 @@ The dataset contains posts from Reddit communities where individuals discuss the
 Important Considerations:
 - Do not attempt to diagnose individuals.
 - Use only for research and educational purposes.
-- Ensure anonymization of personally identifiable information (PII).
+- Ensure anonymization of personally identifiable information.
 🛠️ Skills & Techniques
 - **Natural Language Processing (NLP):** Text preprocessing, tokenization, embeddings (Word2Vec, BERT).
 - **Topic Modeling:** LDA, BERTopic for uncovering underlying discussion themes.
